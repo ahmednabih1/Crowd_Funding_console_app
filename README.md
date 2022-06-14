@@ -1,12 +1,13 @@
 # Crowd_Funding_console_app
-Crowd-Funding console app
+
+The aim of this project is to creat a console app to sart a fundrasing project. 
+
 
 Crowdfunding is the practice of funding a project or venture by raising small
 amounts of money from a large number of people, typically via the Internet.
 Crowdfunding is a form of crowdsourcing and alternative finance. In 2015,
 over US$34 billion was raised worldwide by crowdfunding. (From_Wikipedia)
 
-The aim of the project: Create a console app to start fundraise projects.
 
 The app should include the following features:
 1 - Authentication System:
